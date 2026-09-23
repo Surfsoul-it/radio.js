@@ -1,4 +1,3 @@
-radio.js
 (function () {
     'use strict';
 
