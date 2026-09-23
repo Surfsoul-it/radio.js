@@ -1,4 +1,4 @@
-#radio_plugin.js
+#radio.js
 (function () {
     'use strict';
 
