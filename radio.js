@@ -14,7 +14,7 @@
 - - Запасний вбудований список, якщо інтернет-API недоступний
     */
     (function () {
-    ‘use strict’;
+    'use strict';
 
 if (window.**radio_ua_plugin**) return;
 window.**radio_ua_plugin** = true;
